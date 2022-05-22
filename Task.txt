@@ -1,0 +1,24 @@
+Question
+Use dataset 2 for the following
+
+- Create a new colunm to know if a course is free or paid. Note, if price is 0, it is free, else paid.
+- What is the price, number of subscribers, number of reviews, number of lectures, level, rating, content duration, support, free or paid for the following course titles:
+
+FOREX: From Zero to Hero
+Forex Trading Masterclass - Learn to trade Better
+Aprenda a Invertir seu Dinheiro
+Visualizing data
+CPA 10 COMPLETO
+Innovators and Innovation: Travel through time
+Intermediate accounting 1: Easy. Fast. Simple
+Numeracy skills in business and everyday life: think and deal
+Learn the forex naked price action pogo trade
+Rails ecommerce app with html template from rainforest
+ASP.NET NVC 5 Project - Facebook clone
+Creating Custom Web maps
+Learn Reactivex from ground up
+Introduction to web programming for GIS Applications
+Learn web animation the easy way: An introduction to SVG and GSAP
+Introduction to QGIS Python programming
+PHP Specialist (2017 edition)
+HTML/CSS Bootcamp
